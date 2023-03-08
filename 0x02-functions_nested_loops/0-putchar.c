@@ -1,17 +1,19 @@
 #include "main.h"
-
 /**
- * add - Adds two integers and returns
- * the result.
- *
- * @a: number one.
- * @b: number two.
- *
- * Return: Add of number one and number two.
+ * main - print _putchar
+ * Return: 0
  */
 
-int add(int a, int b)
+int main(void)
 {
-	return (a + b);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
 }
-
